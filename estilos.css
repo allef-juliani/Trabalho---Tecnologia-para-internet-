@@ -1,0 +1,76 @@
+/* Fonte e Fundo */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(to bottom, #f1f1f1, #ff99cc48);
+}
+/* MENU */
+nav {
+    background: linear-gradient(to bottom, #000000, #868484);
+    padding: 25px;
+    border-radius: 7px;
+    box-shadow: 0 0 5px #0000004d;
+}
+
+nav a {
+    color: #f7f2f2;
+    text-decoration: none;
+    margin-right: 20px;
+}
+/* CONTEUDO */
+h1 {
+    color: #FF99CC;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+h2 {
+    color: #000000;
+    text-shadow: 2px 2px 2px #777777f3;
+}
+
+h3{
+    color: #000000;
+    text-shadow: 2px 2px 2px #00000046;
+    font-size: 18px;
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+/* USADO NA PAGINA SOBRE */
+header h1 {
+    color: #000000;
+    text-shadow: 2px 2px 2px #bbb8b8;
+}
+
+header img{
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px #0000004d;
+}
+
+figure {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px #0000004d;
+}
+  
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 5px #0000004d;
+}
+
+figure {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+video {
+    width: 360px;
+    height: 640px;
+}
